@@ -1,3 +1,5 @@
+import os,sys,time
+
 def mengetik(c):
   c = c + '\n'
   for x in c:
